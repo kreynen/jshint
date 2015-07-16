@@ -42,7 +42,7 @@ that cover your issue. And remember the wisdom: pull request > bug report > twee
 ## License
 
 JSHint is distributed under the MIT License. One file and one file only
-(src/stable/jshint.js) is distributed under the slightly modified MIT License.
+(src/stable/jshint.js) is distributed under the slightly modified MIT License and [we are actively working to correct that] (https://github.com/jshint/jshint/issues/1234).
 
 ## The JSHint Team
 
